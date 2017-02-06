@@ -1,0 +1,17 @@
+# Portfolio Site
+September 2016.
+
+## Objective:
+Replicated the provided design mockup in HTML and CSS to create a responsive online portfolio website.
+
+_This is still a template. To be updated with upcoming front-end dev projects._
+
+***
+
+## Design Mockup & Rubric
+
+A design mockup was provided as a PDF. [Here's the mockup.](https://storage.googleapis.com/supplemental_media/udacityu/2655898586/design-mockup-portfolio.pdf)
+
+Here's the rubric used to evaluate the project. [See rubric.](https://review.udacity.com/#!/rubrics/45/view)
+
+***

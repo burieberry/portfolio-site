@@ -1,0 +1,29 @@
+@media screen and (max-width: 649px) {
+
+    .name-block {
+        text-align: center;
+    }
+
+    .app {
+        width: 100%;
+        margin: 20px 0;
+        padding: 0;
+    }
+
+}
+
+@media screen and (min-width: 650px) and (max-width: 830px) {
+
+    .app {
+        width: 50%;
+        margin: 20px 0;
+    }
+}
+
+@media screen and (min-width: 960px) {
+    body {
+        width: 960px;
+        margin: 0 auto;
+    }
+}
+
